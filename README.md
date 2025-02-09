@@ -1,0 +1,1 @@
+This Python script extracts unique domain names from a list of URLs stored in a file (urls.txt) and saves them to another file (unique_domains.txt).
